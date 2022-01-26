@@ -1,11 +1,11 @@
 # Site settings
-title: GENE小友 - 随心所遇
+title: GENE小友V - 随心所遇
 description: GENEXY 介绍
 # baseurl: "/GENE" # the subpath of your site, e.g. /blog
-# url: "https://www.genexy.cn" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "https://www.inv.vin" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: GENE - 小友
+username: www.inv.vin
 user_description: 世间总有一些事，是我们永远无法解释也无法说清的，我必须接受自己的渺小和自己的无能为力。
 user_title: 我感兴趣的是，人死之前是否有好好活过.
 email: Genexy@126.com
