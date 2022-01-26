@@ -1,2 +1,2 @@
 # GENE
-Blog 模板
+www.inv.vin
